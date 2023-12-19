@@ -1,16 +1,20 @@
-### Hi there 👋
+# Привет! Меня зовут Игорь Рудич.
+***
+### Python-бэкенд разработчик
+***
+Я Python-разработчик и в данный момент активно ищу работу.
+Имею гражданство России. В данный момент живу в Батуми (Грузия), но готов к релокации.
+Вы можете связаться со мной:
+- WhatsApp : +995 558 699856
+- Telegram: @igor_rudich
+- email: rudi4.clarinet@mail.ru
 
-<!--
-**Rudich1988/Rudich1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
+### Портфолио:
+- [Анализатор страниц](https://github.com/Rudich1988/python-project-83)
+- [Yatube (социальная сеть)](https://github.com/Rudich1988/yatube_proj)
+- [Вычислитель отличий](https://github.com/Rudich1988/python-project-50)
+- [Игры разума](https://github.com/Rudich1988/python-project-49)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Навыки:
+[]('image/python.png')
