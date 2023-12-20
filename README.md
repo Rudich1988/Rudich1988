@@ -5,8 +5,8 @@
 
 Вы можете связаться со мной:
 
-[!['telegram'](https://github.com/Rudich1988/Rudich1988/blob/main/image/telegram_icon_130816.png)](https://t.me/igor_rudich)
-[!['email'](https://github.com/Rudich1988/Rudich1988/blob/main/image/telegram_macos_bigsur_icon_189662.png)](rudi4.clarinet@mail.ru)
+[!['telegram'](https://github.com/Rudich1988/Rudich1988/blob/main/image/telegram_macos_bigsur_icon_189662.png)](https://t.me/igor_rudich)
+[!['email'](https://github.com/Rudich1988/Rudich1988/blob/main/image/Mail_31108.png)](rudi4.clarinet@mail.ru)
 
 ### Портфолио:
 - [Анализатор страниц](https://github.com/Rudich1988/python-project-83)
