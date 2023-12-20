@@ -5,7 +5,7 @@
 
 Вы можете связаться со мной:
 - WhatsApp : +995 558 699856
-- Telegram: ![@igor_rudich]()(https://t.me/igor_rudich)
+- Telegram: [!['telegram](https://github.com/Rudich1988/Rudich1988/blob/main/image/telegram_icon_130816.png)](https://t.me/igor_rudich)
 - email: rudi4.clarinet@mail.ru
 
 ### Портфолио:
