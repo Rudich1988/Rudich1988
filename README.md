@@ -19,4 +19,5 @@
 
 
 ### Навыки:
-!['Python](https://github.com/Rudich1988/Rudich1988/blob/main/image/python_18894%20(1).png)
+!['Python'](https://github.com/Rudich1988/Rudich1988/blob/main/image/python_18894%20(1).png)
+!['Linux]()
