@@ -5,7 +5,7 @@
 
 Вы можете связаться со мной:
 
-[!['telegram](https://github.com/Rudich1988/Rudich1988/blob/main/image/telegram_icon_130816.png)](https://t.me/igor_rudich)
+[!['telegram'](https://github.com/Rudich1988/Rudich1988/blob/main/image/telegram_icon_130816.png)](https://t.me/igor_rudich)
 [!['email'](https://github.com/Rudich1988/Rudich1988/blob/main/image/Mail_31108.png)](rudi4.clarinet@mail.ru)
 
 ### Портфолио:
@@ -19,6 +19,6 @@
 
 
 ### Навыки:
-!['Python'](https://github.com/Rudich1988/Rudich1988/blob/main/image/python_18894%20(1).png)
-!['Linux](https://github.com/Rudich1988/Rudich1988/blob/main/image/linux_penguin_animal_9362.png)
-!['Postgresql'](https://github.com/Rudich1988/Rudich1988/blob/main/image/postgresql_plain_wordmark_logo_icon_146390.png)
+[!['Python'](https://github.com/Rudich1988/Rudich1988/blob/main/image/python_18894%20(1).png)]()
+[!['Linux](https://github.com/Rudich1988/Rudich1988/blob/main/image/linux_penguin_animal_9362.png)]()
+[!['Postgresql'](https://github.com/Rudich1988/Rudich1988/blob/main/image/postgresql_plain_wordmark_logo_icon_146390.png)]()
