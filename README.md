@@ -21,3 +21,4 @@
 ### Навыки:
 !['Python'](https://github.com/Rudich1988/Rudich1988/blob/main/image/python_18894%20(1).png)
 !['Linux](https://github.com/Rudich1988/Rudich1988/blob/main/image/linux_penguin_animal_9362.png)
+!['Postgresql']()
