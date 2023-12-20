@@ -4,9 +4,8 @@
 Имею гражданство РФ, но в данный момент живу в Батуми (Грузия). Готов к релокации.
 
 Вы можете связаться со мной:
-- WhatsApp : +995 558 699856
-- Telegram: [!['telegram](https://github.com/Rudich1988/Rudich1988/blob/main/image/telegram_icon_130816.png)](https://t.me/igor_rudich)
-- email: rudi4.clarinet@mail.ru
+[!['telegram](https://github.com/Rudich1988/Rudich1988/blob/main/image/telegram_icon_130816.png)](https://t.me/igor_rudich)
+[!['email']()](rudi4.clarinet@mail.ru)
 
 ### Портфолио:
 - [Анализатор страниц](https://github.com/Rudich1988/python-project-83)
