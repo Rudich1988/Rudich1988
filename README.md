@@ -5,7 +5,7 @@
 
 Вы можете связаться со мной:
 
-[!['telegram'](https://github.com/Rudich1988/Rudich1988/blob/main/image/telegram_macos_bigsur_icon_189662.png)](https://t.me/igor_rudich)
+[!['telegram'](https://github.com/Rudich1988/Rudich1988/blob/main/image/telegram_icon_130816.png)](https://t.me/igor_rudich)
 [!['email'](https://github.com/Rudich1988/Rudich1988/blob/main/image/Mail_31108.png)](https://wa.me/+995558699856)
 
 ### Портфолио:
