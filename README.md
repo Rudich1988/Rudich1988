@@ -15,17 +15,6 @@
 
 ***
 
-### Портфолио:
-- [Анализатор страниц](https://github.com/Rudich1988/python-project-83)
-- [Yatube (социальная сеть)](https://github.com/Rudich1988/yatube_proj)
-- [Вычислитель отличий](https://github.com/Rudich1988/python-project-50)
-- [Игры разума](https://github.com/Rudich1988/python-project-49)
-
-***
-
-### Резюме:
-- 'https://cv.hexlet.io/ru/resumes/3377'
-
 ***
 
 ### 💻 Навыки:
